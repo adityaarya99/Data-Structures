@@ -12,13 +12,13 @@ public class SumOfArray {
 		for(int i = 0; i < n; i++) {
 			input[i] = s.nextInt();
 		}
-		System.out.println(SOA.sum(input));
+		System.out.print(SOA.sum(input));
 	}
 
 
-static class SOA{
-	static int n = 0;
-	public static int sum(int input[]) {
+ class SOA{
+	 int n = 0;
+	public  int sum(int input[]) {
 		if(input.length==0) {
 			return 0;
 		}
