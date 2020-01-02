@@ -3,10 +3,11 @@ multiplication using recursion. You can only use subtraction
 and addition for your calculation. No other operators are allowed.*/
 import java.util.*;
 public class Multiplication {
+	
 	public static void main(String[] args) {
-		Scanner sc = new Scanner(System.in);
-		int m = sc.nextInt();
-		int n = sc.nextInt();
+		Scanner scqq = new Scanner(System.in);
+		int m = scqq.nextInt();
+		int n = scqq.nextInt();
 		System.out.println(Multi.multiplyTwoIntegers(m, n));
 	}
 }
