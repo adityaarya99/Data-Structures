@@ -4,6 +4,7 @@ and addition for your calculation. No other operators are allowed.*/
 import java.util.*;
 public class Multiplication {
 	
+	@SuppressWarnings("resource")
 	public static void main(String[] args) {
 		Scanner scqq = new Scanner(System.in);
 		int m = scqq.nextInt();
