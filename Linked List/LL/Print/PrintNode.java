@@ -1,3 +1,8 @@
+
+/*Given a linked list and a position i, print the node at ith position.
+If position i is greater than length of LL, then don't print anything.
+*/
+
 import java.util.Scanner;
 
 class LinkedListNodeP<T> {
