@@ -1,6 +1,11 @@
 
 /*Print a given linked list in reverse order. You need to print the tail first and head last. 
 You can’t change any pointer in the linked list, just print it in reverse order.*/
+/*Sample Input 1 :
+1 2 3 4 5 -1
+Sample Output 1 :
+5 4 3 2 1*/
+
 
 import java.util.Scanner;
 class LinkedListNode<T> {
