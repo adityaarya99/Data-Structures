@@ -6,6 +6,7 @@
 	<classpathentry kind="src" path="Delete"/>
 	<classpathentry kind="src" path="FindNode"/>
 	<classpathentry kind="src" path="Append"/>
+	<classpathentry kind="src" path="Eliminate"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.5"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
