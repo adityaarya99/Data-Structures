@@ -1,5 +1,8 @@
 
 
+/*Given a linked list, find and return the midpoint.
+If the length of linked list is even, return the first mid point.*/
+
 
 import java.util.Scanner;
 
@@ -7,7 +10,7 @@ public class MID {
 	private static Scanner s = new Scanner(System.in);
 
 	public static void main(String[] args) {
-		System.out.println(Solution.printMiddel(input()) + "");
+		System.out.println(MP.printMiddel(input()) + "");
 	}
 	
 
