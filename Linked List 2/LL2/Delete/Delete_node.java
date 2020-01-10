@@ -1,3 +1,10 @@
+/*Given a linked list and a position i, delete the node of ith position
+from Linked List recursively.
+If position i is greater than length of LL, 
+then you should return the same LL without any change.
+Indexing starts from 0. You don't need to print the elements,
+just delete the node and return the head of updated LL.*/
+
 import java.util.Scanner;
 
 class LinkedListNode<T> {
