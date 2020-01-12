@@ -9,5 +9,6 @@
 	<classpathentry kind="src" path="Merge_S"/>
 	<classpathentry kind="src" path="Reverse"/>
 	<classpathentry kind="src" path="Delete"/>
+	<classpathentry kind="src" path="BubbleSort"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
