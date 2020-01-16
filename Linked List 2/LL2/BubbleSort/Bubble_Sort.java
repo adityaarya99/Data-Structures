@@ -1,6 +1,9 @@
+/*Sort a given linked list using Bubble Sort (iteratively). 
+While sorting, you need to swap the entire nodes, not just the data.
+You don't need to print the elements, just sort the elements and return
+the head of updated LL.*/
+
 import java.util.Scanner;
-
-
 class LinkedListNode<T> {
 	public T data;
 	public LinkedListNode<T> next;
